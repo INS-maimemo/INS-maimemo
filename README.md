@@ -1,0 +1,3 @@
+- 👋 INS
+- ⚙️ 墨墨背单词工作账号
+- 🔧 `Javascript` `Typescript` `Rust`
